@@ -90,19 +90,11 @@ Master async JavaScript, event loop & advanced concepts for real-world applicati
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik2004-cse&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritik2004-cse&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritik2004-cse&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritik2004-cse&layout=compact&theme=tokyonight" />
 </p>
 
 ---
